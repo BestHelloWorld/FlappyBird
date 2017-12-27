@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/wlc">
+        <file>wlc_bk.png</file>
+        <file>wlc_begin_btn.png</file>
+        <file>wlc_exit_btn.png</file>
+    </qresource>
+    <qresource prefix="/font">
+        <file>PressStart2P.ttf</file>
+    </qresource>
+    <qresource prefix="/game">
+        <file>game_buttom.png</file>
+        <file>game_obstacle_up.png</file>
+        <file>game_obstacle_down.png</file>
+        <file>game_obstacle_up_top.png</file>
+        <file>game_obstacle_down_top.png</file>
+        <file>bird.png</file>
+        <file>game_bk.png</file>
+        <file>client_bird.png</file>
+    </qresource>
+    <qresource prefix="/game_over">
+        <file>game_over_restart_btn.png</file>
+        <file>game_over_exit_btn.png</file>
+        <file>game_over_home.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>pa.wav</file>
+    </qresource>
+</RCC>
